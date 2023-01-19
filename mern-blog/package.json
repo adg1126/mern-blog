@@ -1,0 +1,11 @@
+{
+  "name": "amazona",
+  "version": "1.0.0",
+  "description": "# Lessons",
+  "main": "index.js",
+  "scripts": {
+    "build": "cd backend && npm run build",
+    "start": "cd backend && npm start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
